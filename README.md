@@ -1,6 +1,6 @@
 # Research Project: Analysis of ASEO Approximation Algorithms for PASP Likelihood Inference
 
-This technical report is a project made for the course "Atividade Curricular em Pesquisa" (MAC0215) at the Mathematics and Statistics Institute of Universidade de São Paulo (IME-USP). It serves mainly to shed a better light on the performance of an approximation algorithm implemented into the [dPASP framework](https://github.com/kamel-usp/dpasp), developed at the [Knowledge-Augmented Machine Learning Research Group (KAMEL-USP)](https://github.com/kamel-usp). The project was supervised by [Denis Maratani Mauá](https://www.ime.usp.br/ddm/) and put into practice by no-one less than myself, Yuri Simantob.
+This technical report is a project made for the course "Atividade Curricular em Pesquisa" (MAC0215) at the Mathematics and Statistics Institute of Universidade de São Paulo (IME-USP). It serves mainly to shed a better light on the performance of an approximation algorithm implemented into the [dPASP framework](https://github.com/kamel-usp/dpasp), developed at the [Knowledge-Augmented Machine Learning Research Group (KAMEL-USP)](https://github.com/kamel-usp). The project was supervised by [Denis Maratani Mauá](https://www.ime.usp.br/ddm/) and put into practice by myself.
 
 
 ## Abstract
